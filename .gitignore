@@ -1,0 +1,33 @@
+# Visual Studio / .NET build artifacts
+.vs/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+TestResults/
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local reports, logs and profiling (do not publish machine-specific data)
+*.log
+logs/
+*.etl
+*.dmp
+*.diagsession
+benchmarks*.csv
+median_summary*.csv
+adaptive_samples*.csv
+
+# NuGet packages/artifacts
+packages/
+*.nupkg
+*.snupkg

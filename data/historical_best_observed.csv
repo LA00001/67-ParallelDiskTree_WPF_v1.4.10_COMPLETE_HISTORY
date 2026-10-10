@@ -1,0 +1,8 @@
+mode;workers;best_seconds;files;folders;bytes;recorded_local;source;kind
+fixed;2;130.746;1507675;308128;462390170614;2026-10-09 21:49:43;events(2).log;best_single_run
+fixed;4;100.934;1507673;308128;462393599930;2026-10-09 21:40:35;events(2).log;best_single_run
+fixed;8;74.786;1506341;308349;462578687329;2026-10-09 20:42:13;events.log;best_single_run
+fixed;16;61.067;1506441;308353;462580613012;2026-10-09 20:43:47;events.log;best_single_run
+fixed;32;65.488;1507675;308128;462390302156;2026-10-09 21:55:26;events(2).log;best_single_run
+fixed;64;46.563;1508199;308206;462394264171;2026-10-10 01:49:32;events(2).log;best_single_run
+adaptive32;32;34.210;1508380;308252;462418350622;2026-10-10 02:07:45;events(3).log;best_single_run
